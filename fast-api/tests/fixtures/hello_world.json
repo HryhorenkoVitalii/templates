@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "payload": [
+        {
+            "msg": "Hello world!"
+        }
+    ]
+}
